@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @curious-ratikesh
-- 👀 I’m interested in developing android applications
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in working as a data analyst
+- 🌱 I’m currently learning new data visualization tools
+- 💞️ I’m looking to collaborate on anything related to data analytics, be it any project related to excel,sql,tableau
 - 📫 How to reach me ...
 
 <!---
